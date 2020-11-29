@@ -9,3 +9,5 @@ https://github.com/LEnriqueAllcca/Ejemplos ---> DJANGO
 
 Antes de usar el proyecto debes crearte una base de datos en Postgresql
 con el nombre de 'ejemplo'
+
+SOLO ES UNA TAREA DE LA UNIVERSIDAD
